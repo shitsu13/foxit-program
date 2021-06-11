@@ -1,4 +1,4 @@
-## Foxit - SQL Examination
+## Foxit - SQL
 
 
 
