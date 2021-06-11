@@ -1,2 +1,2 @@
 # foxit-program
-It's programs with foxit software com.
+It's programs with foxit. software inc.
